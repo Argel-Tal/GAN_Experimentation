@@ -11,3 +11,4 @@ The core agent structure of this project has been adapted and expanded to use ph
 ## Part 2:
 - Stolen some code from @advadnoun (twitter)'s Big Sleep text -> image GAN system
 - Gonna modify it so I can auto-save the images and create local copies to pipe into GIFs
+- Linky link: ⭐ https://colab.research.google.com/drive/1NCceX2mbiKOSlAd_o7IU7nA9UskKN5WR?usp=sharing ⭐
